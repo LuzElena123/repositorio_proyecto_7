@@ -2,6 +2,10 @@
 
 Esta aplicación web fue desarrollada con **Streamlit**, **Pandas** y **Plotly Express** para visualizar y analizar datos de anuncios de venta de vehículos.
 
+## 🌐 Enlace a la aplicación desplegada
+Puedes acceder a la aplicación en Render aquí:  
+👉 [Haz clic para ver la aplicación en Render](https://mi-app-streamlit.onrender.com)
+
 ## 🚗 Descripción
 
 La aplicación permite:
